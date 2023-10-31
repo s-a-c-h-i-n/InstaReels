@@ -1,0 +1,6 @@
+.signup_container{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2rem;
+}

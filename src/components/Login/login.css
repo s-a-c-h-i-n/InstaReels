@@ -1,0 +1,35 @@
+.login_container{
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+}
+
+
+.carousel_container{
+    background-image:url('phone.png');
+    height:420px;
+    background-size:contain;
+    position:relative;
+    background-repeat:no-repeat;
+    width: 45vw;
+}
+
+.carousel_wrapper{
+    position:absolute;
+    z-index:2;
+    left:102px;
+    top:17px;
+    height:366px;
+}
+
+.carousel_image{
+    height: 365px;
+}
+
+@media only screen and (max-width:700px) {
+    .carousel_container{
+        display: none;
+    }
+
+}
