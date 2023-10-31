@@ -19,14 +19,9 @@
 * Material UI
 * Routing -> react-router-dom
 * Carousel Library
-* Flask
+* Firebase
 * Context API
 
-# Setup
+# Run the program
 
-[x] Setup our Project
-[x] Login Page
-    [x] Styling
-    [x] Carousel
-[x] Sign Up Page
-[x] Feed Page
+`npm run dev`
