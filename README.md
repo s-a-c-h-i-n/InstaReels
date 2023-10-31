@@ -24,9 +24,9 @@
 
 # Setup
 
-[*] Setup our Project
-[*] Login Page
-    [*] Styling
-    [*] Carousel
-[*] Sign Up Page
-[*] Feed Page
+[x] Setup our Project
+[x] Login Page
+    [x] Styling
+    [x] Carousel
+[x] Sign Up Page
+[x] Feed Page
